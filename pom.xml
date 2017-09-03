@@ -16,6 +16,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>confsvr</module>
+        <module>authservice</module>
+        <module>discoveryservice</module>
     </modules>
 
     <build>
